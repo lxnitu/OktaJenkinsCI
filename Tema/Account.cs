@@ -21,6 +21,7 @@ namespace Tema
             }
         }
 
+
         public event EventHandler<EventArgs> SoldChanged;
 
         public void LoadSold(decimal sold)
