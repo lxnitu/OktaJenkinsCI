@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="PaymentEngineTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TransferTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
