@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Tema;
 
-namespace Tema.Tests
+namespace TransferTests.Tests
 {
     [TestClass()]
     public class TransferTests
@@ -49,3 +50,4 @@ namespace Tema.Tests
         }
     }
 }
+
